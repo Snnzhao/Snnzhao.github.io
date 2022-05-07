@@ -32,12 +32,12 @@ Recent News
   * Model-based reinforcement learning for autonomous driving. -->
 
   
-<!-- Academic Services
+Academic Activities
 ======
   
-  * Journal reviewer: TKDE, TOIS, WWWJ
+  * Conference Volunteer: KDD'21
 
-  * Conference PC member: ACML'20, CIKM'21'20, ICDE'20, IJCAI'20, SIGIR'20'19, SIGMOD'20, VLDB'21, WSDM'21'20
- -->
+<!--   * Conference PC member: ACML'20, CIKM'21'20, ICDE'20, IJCAI'20, SIGIR'20'19, SIGMOD'20, VLDB'21, WSDM'21'20 -->
+
 
 Updated on 07/05/2022.
