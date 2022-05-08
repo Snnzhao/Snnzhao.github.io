@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-Email: m202173662[AT]hust.edu.au
+Email: m202173662[AT]hust.edu.cn
 
 Ding Zou is currently a first-year Master student at <a href="https://www.hust.edu.cn/" target="_blank">the
 School of Computer Science and Technology, Huazhong University of Science and Technology</a>. 
