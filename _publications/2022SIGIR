@@ -6,13 +6,11 @@ excerpt: '**Ding Zou**, Wei Wei, Xian-Ling Mao, Ziyang Wang, Minghui Qiu, Feida 
 date: 2022-04-01
 venue: 'SIGIR'
 paperurl: 'http://ding523.github.io/files/paper_sigir2022.pdf'
-
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 **Ding Zou**, Wei Wei, Xian-Ling Mao, Ziyang Wang, Minghui Qiu, Feida Zhu, Xin Cao.
+
 [\[PDF\]](http://ding523.github.io/files/paper_sigir2022.pdf)
 [\[AirXiv\]](https://arxiv.org/abs/2204.08807)
 [\[code\]](https://github.com/cciiplab/mcclk)
-
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
