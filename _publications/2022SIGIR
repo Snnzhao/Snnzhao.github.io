@@ -13,4 +13,21 @@ paperurl: 'http://ding523.github.io/files/paper_sigir2022.pdf'
 [\[AirXiv\]](https://arxiv.org/abs/2204.08807)
 [\[code\]](https://github.com/cciiplab/mcclk)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation:
+```
+@inproceedings{gag,
+  author    = {Ruihong Qiu and
+               Hongzhi Yin and
+               Zi Huang and
+               Tong Chen},
+  title     = {GAG: Global Attributed Graph Neural Network for Streaming Session-based
+               Recommendation},
+  booktitle = {Proceedings of the 43rd International {ACM} {SIGIR} conference on
+               research and development in Information Retrieval, {SIGIR} 2020, Virtual
+               Event, China, July 25-30, 2020},
+  pages     = {669--678},
+  publisher = {{ACM}},
+  year      = {2020},
+  doi       = {10.1145/3397271.3401109},
+}
+```
