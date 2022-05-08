@@ -38,9 +38,11 @@ Academic Activities
   * Conference Volunteer: KDD'21
 
 <!--   * Conference PC member: ACML'20, CIKM'21'20, ICDE'20, IJCAI'20, SIGIR'20'19, SIGMOD'20, VLDB'21, WSDM'21'20 -->
-Honnor & Awards
+
+Honer & Awards
 ======
-  
-  * Excellent Graduate Award, HUST, 2021
+* Excellent Graduate Award, HUST, 2021
+
+
 
 Updated on 07/05/2022.
