@@ -41,6 +41,7 @@ Academic Activities
 
 Honer & Awards
 ======
+* SIGIR Student Travel Grant, 2022
 * Excellent Graduate Award, HUST, 2021
 
 
