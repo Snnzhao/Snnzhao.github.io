@@ -11,9 +11,9 @@ title                    : "Ding Zou"
 title_separator          : "-"
 name                     : &name "Ding Zou 邹定"
 description              : &description "Master Student at Huazhong University of Science and Technology (HUST)"
-url                      : https://ding523.github.io # the base hostname & protocol for your site e.g. "https://ding523.github.io"
+url                      : https://dingzou.github.io # the base hostname & protocol for your site e.g. "https://ding523.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ding523.github.io"
+repository               : "dingzou.github.io"
 teaser                   : # "500x300.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
