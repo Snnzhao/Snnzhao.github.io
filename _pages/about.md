@@ -22,6 +22,7 @@ He is now working on Knowledge-aware Recommendation, Contrastive Learning.
 
 Recent News
 =====
+* 08.2022 One paper is accepted by CIKM 2022.
 * 05.2022 Receive the SIGIR Student Travel Grant for SIGIR.
 * 04.2022 One paper is accepted by SIGIR 2022.
 * 12.2021 One paper is accepted by AAAI 2022.
@@ -46,4 +47,4 @@ Honer & Awards
 
 
 
-Updated on 07/05/2022.
+Updated on 08/03/2022.
