@@ -9,11 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+Here is my [CV](http://ding523.github.io/files/cv_english.pdf).
+
+<!-- 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in OEI, Huazhong University of Science and Technology, 2017
 * M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Work experience
 ======
@@ -42,7 +45,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -52,8 +55,9 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ -->
