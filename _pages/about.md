@@ -12,10 +12,10 @@ redirect_from:
 
 Email: m202173662[AT]hust.edu.cn
 
-Ding Zou is currently a first-year Master student at <a href="https://www.hust.edu.cn/" target="_blank">the
-School of Computer Science and Technology, Huazhong University of Science and Technology</a>. 
+Ding Zou is currently a first-year Master student at <a href="http://cs.hust.edu.cn/" target="_blank">the
+School of Computer Science and Technology, Huazhong University of Science and Technology</a>, supervised by <a href="https://www.eric-weiwei.com/" target="_blank"> Prof.Wei Wei</a>
 He was granted the bachelor's degree in Electrical Engineering
-at <a href="https://www.hust.edu.cn/" target="_blank">the
+at <a href="http://oei.hust.edu.cn/" target="_blank">the
 School of Optics and Electronic Information, Huazhong University of Science and Technology</a> in 2021.
 
 He is now working on Knowledge-aware Recommendation, Contrastive Learning.
