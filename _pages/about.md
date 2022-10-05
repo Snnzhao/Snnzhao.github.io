@@ -22,6 +22,7 @@ He is now working on Knowledge-aware Recommendation, Contrastive Learning.
 
 Recent News
 =====
+* 10.2022 Receive the NSF Award (Travel Grant) for CIKM.
 * 08.2022 One paper is accepted by CIKM 2022.
 * 05.2022 Receive the SIGIR Student Travel Grant for SIGIR.
 * 04.2022 One paper is accepted by SIGIR 2022.
@@ -42,6 +43,7 @@ Academic Activities
 
 Honer & Awards
 ======
+* NSF Award (Travel Grant), 2022
 * SIGIR Student Travel Grant, 2022
 * Excellent Graduate Award, HUST, 2021
 
