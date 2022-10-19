@@ -41,7 +41,7 @@ Academic Activities
 
 <!--   * Conference PC member: ACML'20, CIKM'21'20, ICDE'20, IJCAI'20, SIGIR'20'19, SIGMOD'20, VLDB'21, WSDM'21'20 -->
 
-Honer & Awards
+Honor & Awards
 ======
 * National Scholarship (Top 1%), 2022
 * Merit Graduate Student, HUST, 2022
