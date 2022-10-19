@@ -12,7 +12,7 @@ redirect_from:
 
 Email: m202173662[AT]hust.edu.cn
 
-Ding Zou is currently a first-year Master student at <a href="http://cs.hust.edu.cn/" target="_blank">the
+Ding Zou is currently a second-year Master student at <a href="http://cs.hust.edu.cn/" target="_blank">the
 School of Computer Science and Technology, Huazhong University of Science and Technology</a>, supervised by <a href="https://www.eric-weiwei.com/" target="_blank"> Prof.Wei Wei</a>. 
 He was granted the bachelor's degree in Electrical Engineering
 at <a href="http://oei.hust.edu.cn/" target="_blank">the
@@ -43,10 +43,13 @@ Academic Activities
 
 Honer & Awards
 ======
+* National Scholarship, 2022
+* Merit Graduate Student, HUST, 2022
+* Zhixing Excellent Scholarship, HUST, 2022
 * NSF Award (Travel Grant), 2022
 * SIGIR Student Travel Grant, 2022
 * Excellent Graduate Award, HUST, 2021
 
 
 
-Updated on 08/03/2022.
+Updated on 10/19/2022.
