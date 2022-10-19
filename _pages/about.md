@@ -43,7 +43,7 @@ Academic Activities
 
 Honer & Awards
 ======
-* National Scholarship, 2022
+* National Scholarship (Top 1%), 2022
 * Merit Graduate Student, HUST, 2022
 * Zhixing Excellent Scholarship, HUST, 2022
 * NSF Award (Travel Grant), 2022
