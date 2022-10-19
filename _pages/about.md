@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-Email: m202173662[AT]hust.edu.cn
+Email: dingzou[AT]hust.edu.cn
 
 Ding Zou is currently a second-year Master student at <a href="http://cs.hust.edu.cn/" target="_blank">the
 School of Computer Science and Technology, Huazhong University of Science and Technology</a>, supervised by <a href="https://www.eric-weiwei.com/" target="_blank"> Prof.Wei Wei</a>. 
