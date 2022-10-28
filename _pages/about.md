@@ -16,7 +16,7 @@ Ding Zou is currently a second-year Master student at <a href="http://cs.hust.ed
 School of Computer Science and Technology, Huazhong University of Science and Technology</a>, supervised by <a href="https://www.eric-weiwei.com/" target="_blank"> Prof.Wei Wei</a>. 
 He was granted the bachelor's degree in Electrical Engineering
 at <a href="http://oei.hust.edu.cn/" target="_blank">the
-School of Optics and Electronic Information, Huazhong University of Science and Technology</a> in 2021.
+School of Optical and Electronic Information, Huazhong University of Science and Technology</a> in 2021.
 
 He is now working on Knowledge-aware Recommendation, Contrastive Learning.
 
