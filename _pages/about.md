@@ -44,6 +44,8 @@ Academic Activities
 Honor & Awards
 ======
 * National Scholarship (Top 1%), 2022
+* Huawei Scholarship, 2023
+* Sangfor Scholarship, 2022
 * Merit Graduate Student, HUST, 2022
 * Zhixing Excellent Scholarship, HUST, 2022
 * NSF Award (Travel Grant), 2022
@@ -52,4 +54,4 @@ Honor & Awards
 
 
 
-Updated on 10/19/2022.
+Updated on 03/27/2023.
