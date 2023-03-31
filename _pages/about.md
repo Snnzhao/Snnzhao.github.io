@@ -22,6 +22,7 @@ He is now working on Knowledge-aware Recommendation, Contrastive Learning.
 
 Recent News
 =====
+* 03.2022 One survey paper is accepted by WSARAI.
 * 10.2022 Receive the NSF Award (Travel Grant) for CIKM.
 * 08.2022 One paper is accepted by CIKM 2022.
 * 05.2022 Receive the SIGIR Student Travel Grant for SIGIR.
