@@ -15,5 +15,11 @@ paperurl: 'http://ding523.github.io/files/paper_sigir2022.pdf'
 
 Recommended citation:
 ```
-none 
+@inproceedings{zou2022multi,
+  title={Multi-level cross-view contrastive learning for knowledge-aware recommender system},
+  author={Zou, Ding and Wei, Wei and Mao, Xian-Ling and Wang, Ziyang and Qiu, Minghui and Zhu, Feida and Cao, Xin},
+  booktitle={Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  pages={1358--1368},
+  year={2022}
+}
 ```
