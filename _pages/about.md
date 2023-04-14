@@ -22,7 +22,7 @@ He is now working on Recommender Systems, Reinforcement Learning, Contrastive Le
 
 Recent News
 =====
-* 04.2023 One survey paper is accepted by SIGIR 2022.
+* 04.2023 One survey paper is accepted by SIGIR 2023.
 * 03.2022 One survey paper is accepted by WSARAI.
 * 12.2021 One paper is accepted by AAAI 2022.
 
