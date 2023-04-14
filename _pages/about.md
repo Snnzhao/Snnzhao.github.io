@@ -43,6 +43,7 @@ Honor & Awards
 ======
 
 Shenzhen Stock Exchange Scholarship 22
+Excellent Graduate Award, HUST, 2020
 
 
-Updated on 03/27/2023.
+Updated on 04/14/2023.
