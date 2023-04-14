@@ -34,7 +34,7 @@ Recent News
 Academic Activities
 ======
   
-  * Conference Reviewer: WSARAI'23
+  * Journal Reviewer:  International Journal of Data Science and Analytics'23
   * Conference Reviewer: EMNLP'22
 
 <!--   * Conference PC member: ACML'20, CIKM'21'20, ICDE'20, IJCAI'20, SIGIR'20'19, SIGMOD'20, VLDB'21, WSDM'21'20 -->
