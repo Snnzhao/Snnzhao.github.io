@@ -16,7 +16,7 @@ Sen Zhao is currently a third-year PhD student at <a href="http://cs.hust.edu.cn
 School of Computer Science and Technology, Huazhong University of Science and Technology</a>, supervised by <a href="https://www.eric-weiwei.com/" target="_blank"> Prof.Wei Wei</a>. 
 He was granted the bachelor's degree in Artificial Intelligence and Automatic Engineering
 at <a href="http://aia.hust.edu.cn/" target="_blank">the
-School of Artificial Intelligence and Automatic, Huazhong University of Science and Technology</a> in 2021.
+School of Artificial Intelligence and Automatic, Huazhong University of Science and Technology</a> in 2020.
 
 He is now working on Recommender Systems, Reinforcement Learning, Contrastive Learning.
 
