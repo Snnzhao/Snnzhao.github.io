@@ -1,0 +1,24 @@
+---
+title: "A recurrent neural network approach for remaining useful life prediction utilizing a novel trend features construction method"
+collection: publications
+permalink: /publication/2019Measurement
+excerpt: '**Sen Zhao**, Yong Zhang, Shang Wang, Beitong Zhou, Cheng Cheng.'
+date: 2019-9-01
+venue: 'Measurement'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0263224119305706'
+---
+[\[PDF\]](https://arxiv.org/pdf/2112.05372)
+
+
+Recommended citation: 
+```
+@article{zhao2019recurrent,
+  title={A recurrent neural network approach for remaining useful life prediction utilizing a novel trend features construction method},
+  author={Zhao, Sen and Zhang, Yong and Wang, Shang and Zhou, Beitong and Cheng, Cheng},
+  journal={Measurement},
+  volume={146},
+  pages={279--288},
+  year={2019},
+  publisher={Elsevier}
+}
+```
