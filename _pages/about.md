@@ -34,6 +34,7 @@ Recent News
 Academic Activities
 ======
   
+  * Conference Reviewer: WSARAI'23
   * Conference Reviewer: EMNLP'22
 
 <!--   * Conference PC member: ACML'20, CIKM'21'20, ICDE'20, IJCAI'20, SIGIR'20'19, SIGMOD'20, VLDB'21, WSDM'21'20 -->
@@ -41,7 +42,7 @@ Academic Activities
 Honor & Awards
 ======
 
-
+Shenzhen Stock Exchange Scholarship 22
 
 
 Updated on 03/27/2023.
