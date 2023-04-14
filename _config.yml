@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ding Zou"
+title                    : "Sen Zhao"
 title_separator          : "-"
-name                     : &name "Ding Zou 邹定"
-description              : &description "Master Student at Huazhong University of Science and Technology (HUST)"
-url                      : https://ding523.github.io # the base hostname & protocol for your site e.g. "https://ding523.github.io"
+name                     : &name "Sen Zhao 赵森"
+description              : &description "PhD Student at Huazhong University of Science and Technology (HUST)"
+url                      : https://snnzhao.github.io # the base hostname & protocol for your site e.g. "https://snnzhao.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ding523.github.io"
+repository               : "snnzhao.github.io"
 teaser                   : # "500x300.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email                : "senzhao@hust.edu.cn"
   generatedFields:
     date:
       type               : "date"
@@ -73,21 +73,21 @@ social:
 
 # Analytics
 analytics:
-  provider               :  Master Student at Huazhong University of Science and Technology (HUST)" # false (default), "google", "google-universal", "custom"
+  provider               :  PhD Student at Huazhong University of Science and Technology (HUST)" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
 
 # Site Author
 author:
-  name             : "Ding Zou 邹定"
+  name             : "Sen Zhao 赵森"
   avatar           : "zd.jpg"
-  bio              : "Master Student at Huazhong University of Science and Technology (HUST)"
+  bio              : "PhD Student at Huazhong University of Science and Technology (HUST)"
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "m202173662@hust.edu.cn"
+  email            : "senzhao@hust.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ding523"
+  github           : "Snnzhao"
   google_plus      :
   keybase          :
   instagram        :
