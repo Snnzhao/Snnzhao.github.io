@@ -1,5 +1,5 @@
 ---
-title: Multi-view Hypergraph Contrastive Policy Learning for Conversational Recommendation"
+title: Multi-view Hypergraph Contrastive Policy Learning for Conversational Recommendation
 collection: publications
 permalink: /publication/2023SIGIR
 excerpt: '**Sen Zhao**, Wei Wei, Xian-Ling Mao, Shuai Zhu, Minghui Yang, Zujie Wen, Dangyang Chen, Feida Zhu.'
