@@ -43,7 +43,8 @@ Academic Activities
 Honor & Awards
 ======
 
-* Shenzhen Stock Exchange Scholarship 2022.
+* SIGIR Student Travel Grant, 2023
+* Shenzhen Stock Exchange Scholarship, 2022.
 * Excellent Graduate Award, HUST, 2020.
 
 
