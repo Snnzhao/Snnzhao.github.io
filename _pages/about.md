@@ -22,16 +22,16 @@ He is now working on Recommender Systems, Reinforcement Learning, Contrastive Le
 
 Recent News
 =====
+* 11.2023 One full paper is accepted by IEEE TKDE 2023.
 * 04.2023 One full paper is accepted by IJCAI 2023.
 * 04.2023 One full paper is accepted by SIGIR 2023.
 * 03.2022 One survey paper is accepted by WSARAI.
 * 12.2021 One full paper is accepted by AAAI 2022.
 
-<!-- Work experience
+Work experience
 ======
-*  -->
+* 06.2023 – 08.2023 Research Intern, Alibaba Inc.
 
-  
 Academic Activities
 ======
   
@@ -42,7 +42,9 @@ Academic Activities
 
 Honor & Awards
 ======
-
+* National Scholarship for Ph.D (3 in Ph.D of all grades), 2023
+* Merit Graduate Student, HUST, 2023
+* Zhixing Excellent Scholarship, HUST, 2023
 * SIGIR Student Travel Grant, 2023
 * Shenzhen Stock Exchange Scholarship, 2022.
 * Excellent Graduate Award, HUST, 2020.
