@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Here is my [CV](http://snnzhao.github.io/files/cv_english.pdf).
+Here is my [CV](http://snnzhao.github.io/files/cv_chinese.pdf).
 
 
